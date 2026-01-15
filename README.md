@@ -23,5 +23,5 @@ Ikuti langkah berikut untuk menjalankan proyek ini di lokal:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/Mr-Javkuds/BelajarFastApi.git](https://github.com/Mr-Javkuds/BelajarFastApi.git)
+git clone [https://github.com/Mr-Javkuds/BelajarFastApi.git] (https://github.com/Mr-Javkuds/BelajarFastApi.git)
 cd BelajarFastApi
